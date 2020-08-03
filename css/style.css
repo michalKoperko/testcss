@@ -1,0 +1,10 @@
+.box{
+background-color: brown;
+color: hotpink;
+display: inline-block;
+border: cadetblue;
+border-width: 12px;
+border-style: solid;
+padding: 5px;
+width: 50px;
+}
